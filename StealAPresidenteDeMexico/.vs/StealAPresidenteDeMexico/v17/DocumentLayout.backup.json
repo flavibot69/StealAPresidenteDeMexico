@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Genaro\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CFE22AA6-FDD5-4384-8B48-3B5185AEEEFB}|StealAPresidenteDeMexico\\StealAPresidenteDeMexico.csproj|c:\\users\\genaro\\stealapresidentedemexico\\stealapresidentedemexico\\stealapresidentedemexico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE22AA6-FDD5-4384-8B48-3B5185AEEEFB}|StealAPresidenteDeMexico\\StealAPresidenteDeMexico.csproj|solutionrelative:stealapresidentedemexico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE22AA6-FDD5-4384-8B48-3B5185AEEEFB}|StealAPresidenteDeMexico\\StealAPresidenteDeMexico.csproj|c:\\users\\genaro\\stealapresidentedemexico\\stealapresidentedemexico\\stealapresidentedemexico\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE22AA6-FDD5-4384-8B48-3B5185AEEEFB}|StealAPresidenteDeMexico\\StealAPresidenteDeMexico.csproj|solutionrelative:stealapresidentedemexico\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CFE22AA6-FDD5-4384-8B48-3B5185AEEEFB}|StealAPresidenteDeMexico\\StealAPresidenteDeMexico.csproj|c:\\users\\genaro\\stealapresidentedemexico\\stealapresidentedemexico\\stealapresidentedemexico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CFE22AA6-FDD5-4384-8B48-3B5185AEEEFB}|StealAPresidenteDeMexico\\StealAPresidenteDeMexico.csproj|solutionrelative:stealapresidentedemexico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE22AA6-FDD5-4384-8B48-3B5185AEEEFB}|StealAPresidenteDeMexico\\StealAPresidenteDeMexico.csproj|c:\\users\\genaro\\stealapresidentedemexico\\stealapresidentedemexico\\stealapresidentedemexico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE22AA6-FDD5-4384-8B48-3B5185AEEEFB}|StealAPresidenteDeMexico\\StealAPresidenteDeMexico.csproj|solutionrelative:stealapresidentedemexico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\Form1.cs",
+              "RelativeDocumentMoniker": "StealAPresidenteDeMexico\\Form1.cs",
+              "ToolTip": "C:\\Users\\Genaro\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\Form1.cs",
+              "RelativeToolTip": "StealAPresidenteDeMexico\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T00:23:51.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "StealAPresidenteDeMexico\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Genaro\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\Form1.Designer.cs",
+              "RelativeToolTip": "StealAPresidenteDeMexico\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T00:20:10.308Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -30,15 +68,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Genaro\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\Program.cs",
+              "RelativeDocumentMoniker": "StealAPresidenteDeMexico\\Program.cs",
+              "ToolTip": "C:\\Users\\Genaro\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\Program.cs",
+              "RelativeToolTip": "StealAPresidenteDeMexico\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T00:19:03.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Genaro\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\Form1.cs",
               "RelativeDocumentMoniker": "StealAPresidenteDeMexico\\Form1.cs",
-              "ToolTip": "C:\\Users\\Genaro\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\Form1.cs [Design]",
-              "RelativeToolTip": "StealAPresidenteDeMexico\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Genaro\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\StealAPresidenteDeMexico\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "StealAPresidenteDeMexico\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T23:51:46.61Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         },

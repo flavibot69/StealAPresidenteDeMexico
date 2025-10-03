@@ -2,15 +2,16 @@ version: "3.8"
 services:
   db:
     image: mysql:8.0
-    container_name: minijuego_db
+    container_name: stealapresidente_db
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: 1234
-      MYSQL_DATABASE: minijuego
+      MYSQL_DATABASE: stealapresidente   # <- cambia el nombre aquí
     ports:
       - "3306:3306"
     volumes:
       - ./Database/init.sql:/docker-entrypoint-initdb.d/init.sql
+
 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
